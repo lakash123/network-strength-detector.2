@@ -1,0 +1,1 @@
+# network-strength-detector.2
